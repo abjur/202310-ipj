@@ -10,7 +10,6 @@ quantitativa, com aplicações em temas do Direito.
 
 | aula                   | slide                                                                                                       |
 | :--------------------- | :---------------------------------------------------------------------------------------------------------- |
-| introducao             | [introducao](https://abjur.github.io/202310-ipj/materiais/slides/a00_introducao.html)                       |
 | operacionalizacao      | [operacionalizacao](https://abjur.github.io/202310-ipj/materiais/slides/a01_operacionalizacao.html)         |
 | escopo                 | [escopo](https://abjur.github.io/202310-ipj/materiais/slides/a02_escopo.html)                               |
 | tipos\_variaveis       | [tipos\_variaveis](https://abjur.github.io/202310-ipj/materiais/slides/a03_tipos_variaveis.html)            |
