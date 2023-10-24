@@ -24,7 +24,6 @@ quantitativa, com aplicações em temas do Direito.
 | metodologia            | [metodologia](https://abjur.github.io/202310-ipj/materiais/slides/a_metodologia.html)                       |
 | pgd                    | [pgd](https://abjur.github.io/202310-ipj/materiais/slides/a_pgd.html)                                       |
 | priest\_klein          | [priest\_klein](https://abjur.github.io/202310-ipj/materiais/slides/a_priest_klein.html)                    |
-| tecnica                | [tecnica](https://abjur.github.io/202310-ipj/materiais/slides/a_tecnica.html)                               |
 | tecnica\_pesquisa      | [tecnica\_pesquisa](https://abjur.github.io/202310-ipj/materiais/slides/a_tecnica_pesquisa.html)            |
 | time\_series           | [time\_series](https://abjur.github.io/202310-ipj/materiais/slides/a_time_series.html)                      |
 
