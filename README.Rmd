@@ -23,7 +23,7 @@ fs::dir_ls("materiais/slides", glob = "*.html") |>
   tibble::enframe() |>
   dplyr::filter(
     stringr::str_detect(name, "a[0-9]{2}|a_"),
-    !stringr::str_detect(name, "a00"),
+    #!stringr::str_detect(name, "a00"),
     !stringr::str_detect(name, "a_tecnica\\.html")
   ) |>
   dplyr::transmute(
